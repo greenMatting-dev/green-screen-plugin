@@ -1,10 +1,9 @@
-# obs-green-screen-plugin(Commercial paid plug-ins)
-obs-green-screen-plugin
+# green-screen-plugin(Commercial paid plug-ins)
+green-screen-plugin
 
 # update log
 Version 5.3.0
 
-1. Compatible with OBS version 31.1.1
 2. Added the Hair Enhancement feature.
 3. Optimized the selection interface for static protection.
 4. Added fine-grained control for edge scaling.
@@ -15,7 +14,7 @@ Version 5.3.0
 ---
 Version 5.2.0
 1. Optimized the background blur feature, allowing you to apply various LUT filters to the image before blurring.
-2. Optimized the virtual camera feature, allowing you to detect the camera even when OBS is not open. The camera name has been changed to ZS-UHD-video.
+2. Optimized the virtual camera feature, allowing you to detect the camera even when is not open. The camera name has been changed to ZS-UHD-video.
 3. Added the ability to upload logs.
 4. Added the grayscale LUT feature.
 5. Optimized the performance viewer interface.
