@@ -53,7 +53,7 @@ Version 4.7.0
 ---
 
 Version 4.6.2
-- Added several plug-ins to the OBS filter:
+- Added several plug-ins to the filter:
 1. <DaVinci Color Correction Filter (Lightweight)> plug-in
 2. <Cutout Filter> plug-in
 3. <Transparency Filter LUT> plug-in
@@ -79,7 +79,7 @@ Version 4.5
 3. Other optimizations.
 
 Version 4.4
-1. Added a "High-Quality Virtual Camera Module"; outputs images much more detailed than the built-in virtual camera in OBS;
+1. Added a "High-Quality Virtual Camera Module"; outputs images much more detailed than the built-in virtual camera;
 2. Optimized image display details for a more realistic display;
 3. Support for HDYC format;
 4. Other image quality improvements.
@@ -113,7 +113,7 @@ Updates:
 3. Optimized the performance of color protection when setting a region.
 4. Optimized the color protection interface, static protection interface, and image cropping interface.
 5. Optimized denoising parameters.
-6. Added a green keying feature in the form of an OBS filter, allowing you to key out images or videos.
+6. Added a green keying feature in the form of an filter, allowing you to key out images or videos.
 7. Increased the number of color protections to four. You can now select up to four different colors.
 
 ---
