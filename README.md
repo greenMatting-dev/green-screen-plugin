@@ -122,3 +122,6 @@ Update Contents:
 - Added blue screen keying
 - Added color protection and area selection.
 - Removed the background source selection feature. Only the background can be selected as the scene type.
+
+---
+Contact Us: support#lansongtech.com
