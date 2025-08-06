@@ -1,4 +1,4 @@
-# obs-green-screen-plugin
+# obs-green-screen-plugin(Commercial paid plug-ins)
 obs-green-screen-plugin
 
 # update log
