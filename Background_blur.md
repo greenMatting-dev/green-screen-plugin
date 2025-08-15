@@ -1,0 +1,11 @@
+- Lansong Cutout's answer: All you need to do is upgrade our plugin to version 5.1 or higher,
+- at no additional cost. After upgrading, you'll notice a new interface like the one below on the Background Blur tab. Click the switch to enable the background blur feature.
+
+- That is, when a person approaches the camera, the background blurs naturally; as they move away, the background blurs automatically.
+- This is Lansong's blur feature. It's incredibly simple, just an additional on/off button. No additional rangefinder camera or background blurring is required.
+- We've implemented the background blur feature without changing the user experience, eliminating any learning curve.
+- As usual, you can add images, videos, text, or even screenshots beneath the cutout. You can perform normal operations on each layer: moving, scaling, applying filters, and so on. We only blur the final image after these operations.
+- No additional rangefinder camera is required. We primarily use face detection, supplemented by image area and edge detection, and combine various algorithms to ensure optimal blur sensitivity while remaining extremely simple.
+- We've also provided an "Auto Blur Level" to adjust the background blur based on the distance of the streamer's movements. The default setting is 3, meaning that if the user moves within a distance of about one meter, the background quickly becomes sharp as they move slightly further away, while the background blurs slightly as they move closer, almost mimicking the focus function of most cameras.
+-
+- If you prefer a more pronounced background blur, you can set it to 4. The maximum level is 7, which goes from completely blurred to completely sharp at a distance of about five meters.
