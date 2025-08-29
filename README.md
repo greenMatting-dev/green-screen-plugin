@@ -1,6 +1,8 @@
 #OBS studio plugin green-screen(Commercial paid plug-ins)
 Contact Us: support@lansongtech.com
 
+### web: https://www.lansongai.com/OBSmatting.html
+
 # update log
 Version6.0
 
