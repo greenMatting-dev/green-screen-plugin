@@ -2,8 +2,9 @@
 Contact Us: support@lansongtech.com
 
 ### web: https://www.lansongai.com/OBSmatting.html
-
+# Transparent effect
 ![picture1](https://raw.githubusercontent.com/greenMatting-dev/green-screen-plugin/main/picture1.png)
+# Live effect
 ![picture2](https://raw.githubusercontent.com/greenMatting-dev/green-screen-plugin/main/picture2.png)
 # update log
 Version6.0
