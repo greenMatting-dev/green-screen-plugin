@@ -1,7 +1,15 @@
-# green-screen-plugin(Commercial paid plug-ins)
-Contact Us: support#lansongtech.com
+#OBS studio plugin green-screen(Commercial paid plug-ins)
+Contact Us: support@lansongtech.com
 
 # update log
+Version6.0
+
+1. Optimized the despill algorithm, providing targeted optimizations for different scenarios.
+2. Rewrote the Model 1 algorithm, resulting in clearer and more natural edges (this process takes longer).
+3. Added a bottom bar to the interface and various user-friendly features.
+4. Added a manual optimization function after one-click calibration, resulting in more accurate calibration images.
+5. Other improvements.
+---
 Version 5.3.0
 
 2. Added the Hair Enhancement feature.
