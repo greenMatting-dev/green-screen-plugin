@@ -137,4 +137,4 @@ Update Contents:
 - Removed the background source selection feature. Only the background can be selected as the scene type.
 
 ---
-Contact Us: support#lansongtech.com
+Contact Us: support@lansongtech.com
